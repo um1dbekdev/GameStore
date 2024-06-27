@@ -5,6 +5,7 @@ import Header from './header'
 import SectionWAN from './SectionWAN'
 import Sctwo from './SCTWO'
 import Banner from './banner'
+import Salom from './newBaner'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -13,5 +14,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
    <SectionWAN/>
    <Sctwo/>
    <Banner/>
+   <Salom/>
   </React.StrictMode>,
 )
